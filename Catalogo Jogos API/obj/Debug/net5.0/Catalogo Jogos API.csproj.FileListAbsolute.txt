@@ -1,0 +1,65 @@
+C:\Users\Desenvolvimento\Documents\Projetos\Catalogo Jogos API\Catalogo Jogos API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Desenvolvimento\Documents\Projetos\Catalogo Jogos API\Catalogo Jogos API\bin\Debug\net5.0\appsettings.json
+C:\Users\Desenvolvimento\Documents\Projetos\Catalogo Jogos API\Catalogo Jogos API\bin\Debug\net5.0\Catalogo Jogos API.exe
+C:\Users\Desenvolvimento\Documents\Projetos\Catalogo Jogos API\Catalogo Jogos API\bin\Debug\net5.0\Catalogo Jogos API.deps.json
+C:\Users\Desenvolvimento\Documents\Projetos\Catalogo Jogos API\Catalogo Jogos API\bin\Debug\net5.0\Catalogo Jogos API.runtimeconfig.json
+C:\Users\Desenvolvimento\Documents\Projetos\Catalogo Jogos API\Catalogo Jogos API\bin\Debug\net5.0\Catalogo Jogos API.runtimeconfig.dev.json
+C:\Users\Desenvolvimento\Documents\Projetos\Catalogo Jogos API\Catalogo Jogos API\bin\Debug\net5.0\Catalogo Jogos API.dll
+C:\Users\Desenvolvimento\Documents\Projetos\Catalogo Jogos API\Catalogo Jogos API\bin\Debug\net5.0\ref\Catalogo Jogos API.dll
+C:\Users\Desenvolvimento\Documents\Projetos\Catalogo Jogos API\Catalogo Jogos API\bin\Debug\net5.0\Catalogo Jogos API.pdb
+C:\Users\Desenvolvimento\Documents\Projetos\Catalogo Jogos API\Catalogo Jogos API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Desenvolvimento\Documents\Projetos\Catalogo Jogos API\Catalogo Jogos API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Desenvolvimento\Documents\Projetos\Catalogo Jogos API\Catalogo Jogos API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Desenvolvimento\Documents\Projetos\Catalogo Jogos API\Catalogo Jogos API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Desenvolvimento\Documents\Projetos\Catalogo Jogos API\Catalogo Jogos API\obj\Debug\net5.0\Catalogo Jogos API.csproj.AssemblyReference.cache
+C:\Users\Desenvolvimento\Documents\Projetos\Catalogo Jogos API\Catalogo Jogos API\obj\Debug\net5.0\Catalogo Jogos API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desenvolvimento\Documents\Projetos\Catalogo Jogos API\Catalogo Jogos API\obj\Debug\net5.0\Catalogo Jogos API.AssemblyInfoInputs.cache
+C:\Users\Desenvolvimento\Documents\Projetos\Catalogo Jogos API\Catalogo Jogos API\obj\Debug\net5.0\Catalogo Jogos API.AssemblyInfo.cs
+C:\Users\Desenvolvimento\Documents\Projetos\Catalogo Jogos API\Catalogo Jogos API\obj\Debug\net5.0\Catalogo Jogos API.csproj.CoreCompileInputs.cache
+C:\Users\Desenvolvimento\Documents\Projetos\Catalogo Jogos API\Catalogo Jogos API\obj\Debug\net5.0\Catalogo Jogos API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Desenvolvimento\Documents\Projetos\Catalogo Jogos API\Catalogo Jogos API\obj\Debug\net5.0\Catalogo Jogos API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Desenvolvimento\Documents\Projetos\Catalogo Jogos API\Catalogo Jogos API\obj\Debug\net5.0\staticwebassets\Catalogo Jogos API.StaticWebAssets.Manifest.cache
+C:\Users\Desenvolvimento\Documents\Projetos\Catalogo Jogos API\Catalogo Jogos API\obj\Debug\net5.0\staticwebassets\Catalogo Jogos API.StaticWebAssets.xml
+C:\Users\Desenvolvimento\Documents\Projetos\Catalogo Jogos API\Catalogo Jogos API\obj\Debug\net5.0\scopedcss\bundle\Catalogo Jogos API.styles.css
+C:\Users\Desenvolvimento\Documents\Projetos\Catalogo Jogos API\Catalogo Jogos API\obj\Debug\net5.0\Catalogo Jogos API.RazorTargetAssemblyInfo.cache
+C:\Users\Desenvolvimento\Documents\Projetos\Catalogo Jogos API\Catalogo Jogos API\obj\Debug\net5.0\Catalogo Jogos API.csproj.CopyComplete
+C:\Users\Desenvolvimento\Documents\Projetos\Catalogo Jogos API\Catalogo Jogos API\obj\Debug\net5.0\Catalogo Jogos API.dll
+C:\Users\Desenvolvimento\Documents\Projetos\Catalogo Jogos API\Catalogo Jogos API\obj\Debug\net5.0\ref\Catalogo Jogos API.dll
+C:\Users\Desenvolvimento\Documents\Projetos\Catalogo Jogos API\Catalogo Jogos API\obj\Debug\net5.0\Catalogo Jogos API.pdb
+C:\Users\Desenvolvimento\Documents\Projetos\Catalogo Jogos API\Catalogo Jogos API\obj\Debug\net5.0\Catalogo Jogos API.genruntimeconfig.cache
+C:\Users\thiag\Documents\Dio\C#\Catalogo Jogos API\Catalogo Jogos API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\thiag\Documents\Dio\C#\Catalogo Jogos API\Catalogo Jogos API\bin\Debug\net5.0\appsettings.json
+C:\Users\thiag\Documents\Dio\C#\Catalogo Jogos API\Catalogo Jogos API\bin\Debug\net5.0\Catalogo Jogos API.exe
+C:\Users\thiag\Documents\Dio\C#\Catalogo Jogos API\Catalogo Jogos API\bin\Debug\net5.0\Catalogo Jogos API.deps.json
+C:\Users\thiag\Documents\Dio\C#\Catalogo Jogos API\Catalogo Jogos API\bin\Debug\net5.0\Catalogo Jogos API.runtimeconfig.json
+C:\Users\thiag\Documents\Dio\C#\Catalogo Jogos API\Catalogo Jogos API\bin\Debug\net5.0\Catalogo Jogos API.runtimeconfig.dev.json
+C:\Users\thiag\Documents\Dio\C#\Catalogo Jogos API\Catalogo Jogos API\bin\Debug\net5.0\Catalogo Jogos API.dll
+C:\Users\thiag\Documents\Dio\C#\Catalogo Jogos API\Catalogo Jogos API\bin\Debug\net5.0\ref\Catalogo Jogos API.dll
+C:\Users\thiag\Documents\Dio\C#\Catalogo Jogos API\Catalogo Jogos API\bin\Debug\net5.0\Catalogo Jogos API.pdb
+C:\Users\thiag\Documents\Dio\C#\Catalogo Jogos API\Catalogo Jogos API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\thiag\Documents\Dio\C#\Catalogo Jogos API\Catalogo Jogos API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\thiag\Documents\Dio\C#\Catalogo Jogos API\Catalogo Jogos API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\thiag\Documents\Dio\C#\Catalogo Jogos API\Catalogo Jogos API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\thiag\Documents\Dio\C#\Catalogo Jogos API\Catalogo Jogos API\obj\Debug\net5.0\Catalogo Jogos API.csproj.AssemblyReference.cache
+C:\Users\thiag\Documents\Dio\C#\Catalogo Jogos API\Catalogo Jogos API\obj\Debug\net5.0\Catalogo Jogos API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Documents\Dio\C#\Catalogo Jogos API\Catalogo Jogos API\obj\Debug\net5.0\Catalogo Jogos API.AssemblyInfoInputs.cache
+C:\Users\thiag\Documents\Dio\C#\Catalogo Jogos API\Catalogo Jogos API\obj\Debug\net5.0\Catalogo Jogos API.AssemblyInfo.cs
+C:\Users\thiag\Documents\Dio\C#\Catalogo Jogos API\Catalogo Jogos API\obj\Debug\net5.0\Catalogo Jogos API.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Documents\Dio\C#\Catalogo Jogos API\Catalogo Jogos API\obj\Debug\net5.0\Catalogo Jogos API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\thiag\Documents\Dio\C#\Catalogo Jogos API\Catalogo Jogos API\obj\Debug\net5.0\Catalogo Jogos API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thiag\Documents\Dio\C#\Catalogo Jogos API\Catalogo Jogos API\obj\Debug\net5.0\staticwebassets\Catalogo Jogos API.StaticWebAssets.Manifest.cache
+C:\Users\thiag\Documents\Dio\C#\Catalogo Jogos API\Catalogo Jogos API\obj\Debug\net5.0\staticwebassets\Catalogo Jogos API.StaticWebAssets.xml
+C:\Users\thiag\Documents\Dio\C#\Catalogo Jogos API\Catalogo Jogos API\obj\Debug\net5.0\scopedcss\bundle\Catalogo Jogos API.styles.css
+C:\Users\thiag\Documents\Dio\C#\Catalogo Jogos API\Catalogo Jogos API\obj\Debug\net5.0\Catalogo Jogos API.RazorTargetAssemblyInfo.cache
+C:\Users\thiag\Documents\Dio\C#\Catalogo Jogos API\Catalogo Jogos API\obj\Debug\net5.0\Catalogo Jogos API.csproj.CopyComplete
+C:\Users\thiag\Documents\Dio\C#\Catalogo Jogos API\Catalogo Jogos API\obj\Debug\net5.0\Catalogo Jogos API.dll
+C:\Users\thiag\Documents\Dio\C#\Catalogo Jogos API\Catalogo Jogos API\obj\Debug\net5.0\ref\Catalogo Jogos API.dll
+C:\Users\thiag\Documents\Dio\C#\Catalogo Jogos API\Catalogo Jogos API\obj\Debug\net5.0\Catalogo Jogos API.pdb
+C:\Users\thiag\Documents\Dio\C#\Catalogo Jogos API\Catalogo Jogos API\obj\Debug\net5.0\Catalogo Jogos API.genruntimeconfig.cache
+C:\Users\thiag\Documents\Dio\C#\Catalogo Jogos API\Catalogo Jogos API\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\thiag\Documents\Dio\C#\Catalogo Jogos API\Catalogo Jogos API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\thiag\Documents\Dio\C#\Catalogo Jogos API\Catalogo Jogos API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\thiag\Documents\Dio\C#\Catalogo Jogos API\Catalogo Jogos API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\thiag\Documents\Dio\C#\Catalogo Jogos API\Catalogo Jogos API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thiag\Documents\Dio\C#\Catalogo Jogos API\Catalogo Jogos API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thiag\Documents\Dio\C#\Catalogo Jogos API\Catalogo Jogos API\bin\Debug\net5.0\Catalogo Jogos API.xml
